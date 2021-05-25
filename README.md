@@ -1,3 +1,5 @@
+A wearable and portable prototype that can be worn and carried around with ease was designed to help the Visually Impaired people recognize the faces of known people in their presence. This prototype has an embedded Raspberry Pi and uses a Pi camera which aids the user by detecting, capturing, and recognizing faces through several techniques and then providing an output in the form of an audio message.
+
 # facenet-face-recognition
 
 This repository contains a demonstration of face recognition using the FaceNet network (https://arxiv.org/pdf/1503.03832.pdf) and a webcam. Our implementation feeds frames from the webcam to the network to determine whether or not the frame contains an individual we recognize.
